@@ -7,6 +7,10 @@ History
 * XXX
 -->
 
+## 0.4.2
+
+* Update dependencies to fix security vulnerabilities.
+
 ## 0.4.1
 
 * Add `--filter` option.
